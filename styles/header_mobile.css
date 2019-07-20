@@ -1,0 +1,35 @@
+.header_left_wrap { width: 25%; height: 50px; background-color: #000000; float: left; }
+.header_left_logo_wrap { width: 50%; height: 50px; margin-right: 150px; }
+.header_left_logo_wrap img { margin-top: 10px; }
+
+.header_center_wrap { width: 50%; height: 50px; float: left; z-index: 15;}
+.header_center_mainNav_wrap { width: 100%; height: 50px; background-color: #000000; }
+.header_center_mainNav_cell_wrap { width: 25%; height: 50px; float: left; }
+.header_center_mainNav_cell_wrap h3 { color: #ffffff; font-family: stencil std; }
+
+.header_center_subNav_wrap { width: 100%; height: 0px; background-color: #000000; }
+.header_center_subNav_cell_wrap { width: 25%; height: 70px; float: left; }
+.header_center_subNav_cell_wrap ul li { width: 100%; height: 30px; margin-top: -25px; }
+.header_center_subNav_cell_wrap h4 { color: #ffffff; }
+
+.header_right_wrap { width: 25%; height: 50px; background-color: #000000; float: left; }
+.header_right_userForm_wrap { width: 70%; height: 50px; border: solid 0px #aaaaaa; margin-left: 100px; }
+
+.header_right_userForm_idDisplay_wrap { width: 30%; height: 50px; border: solid 0px #ff0000; float: left; }
+.header_right_userForm_idDisplay_wrap h6 { color: #ffffff; font-style: italic;}
+
+.header_right_userForm_login_wrap { width: 30%; height: 50px; float: left; }
+.header_right_userForm_login_wrap img { margin-top: 10px; }
+
+.header_right_userForm_join_wrap { width: 30%; height: 50px; float: left; }
+.header_right_userForm_join_wrap img { margin-top: 10px; }
+
+/* 별도의 로그인 폼 CSS*/
+#loginForm {
+  position: absolute; left: 75%; top: 60px; width: 0px; height: 0px; border: solid 1px #ffffff; z-index: 15;
+  border-radius: 3px; background-color: #000000; border-color: #000000;
+}
+
+.loginForm_id { width: 80%; height: 30px; border: solid 1px #aaaaaa; background-color: #2b2b2b; margin-top: 20px; color: #ffffff; }
+.loginForm_pw { width: 80%; height: 30px; border: solid 1px #aaaaaa; background-color: #2b2b2b; margin-top: 5px; color: #ffffff; }
+.loginForm_submit { width: 80%; height: 40px; border: solid 1px #ffffff; background-color: #000000; margin-top: 10px; color: #ffffff; }

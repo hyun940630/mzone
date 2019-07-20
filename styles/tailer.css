@@ -1,0 +1,6 @@
+.tailer_wrap { width: 100%; height: 100px; border-top: solid 1px #ffffff; padding-top: 20px; }
+.tailer_wrap h5 { color: #ffffff; margin-top: 10px; }
+#tailer_banner { float: right; margin-right: 5px; }
+#naver_banner_img { margin: 0px; padding: 0px; float: left; margin-bottom: 10px; margin-left: 10px;}
+#facebook_banner_img { margin: 0px; padding: 0px; float: left; margin-bottom: 10px; margin-left: 10px; }
+#cyworld_banner_img { margin: 0px; padding: 0px; float: left; margin-bottom: 10px; margin-left: 10px; }

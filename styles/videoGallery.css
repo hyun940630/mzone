@@ -1,0 +1,56 @@
+/* 여기다가 css 스타일 넣으면 됨 */
+.content_wrap { position: absolute; width: 50%; height: 1250px; border: solid 0px #aaaaaa;  top: 60px; left: 25%; z-index: 5;}
+
+.content_representImage_wrap { width: 100%; height: 250px; border: solid 0px #aaaaaa; margin-top: 50px; };
+
+.content_bestVideo_wrap { width: 100%; height: 350px; border: solid 0px #aaaaaa; }
+.content_bestVideo_title_wrap { width: 100%; height: 50px; border-bottom: solid 1px #ffffff; margin-bottom: 20px; }
+.content_bestVideo_title_wrap h4 { float: left; color: #ffffff; }
+.content_bestVideo_video_wrap { width: 100%; height: 300px; border: solid 0px #aaaaaa; }
+.content_bestVideo_video_cell_wrap { width: 100%; height: 300px; background-color: #000000; margin-left: 0%; padding: 0px; border: solid 0px #ffffff; }
+.content_bestVideo_video_cell_wrap source { width: 50px; height: 50px; margin: 0px; border: solid 1px #ffffff; }
+
+#bestVideo1 { margin-top: 6px; margin-right: 25px; }
+#bestVideo2 { margin-top: 1px; }
+
+.content_gallery_wrap { width: 100%; height: 700px; border: solid 0px #aaaaaa; margin-top: 100px; }
+
+.content_gallery_title_wrap { width: 100%; height: 50px; border-bottom: solid 1px #ffffff; }
+.content_gallery_title_wrap h4 { float: left; color: #ffffff; }
+
+.content_gallery_content_wrap { width: 100%; height: 650px; border: solid 0px #aaaaaa;  }
+
+.content_gallery_content_cell_wrap { width: 100%; height: 200px; border: solid 0px #aaaaaa; margin-top: 20px; }
+.content_gallery_content_cell_thumbnail_wrap { width: 56%; height: 200px; background-color: #000000; float: left; border-bottom: solid 1px #ffffff; }
+.content_gallery_content_cell_thumbnail_wrap source { width: 100%; height: 100%; }
+
+.content_gallery_content_cell_description_wrap { width: 40%; height: 200px; border-bottom: solid 1px #ffffff; background-color: #000000; float: left; }
+.content_gallery_content_cell_description_title_wrap { width: 100%; height: 40px; border: solid 0px #000000; }
+.content_gallery_content_cell_description_title_wrap h4 { color: #ffffff; }
+
+.content_gallery_content_cell_description_uploader_wrap { width: 100%; height: 60px; float: left; background-color: }
+.content_gallery_content_cell_description_uploader_icon_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_uploader_icon_wrap h6 { margin: 0px; padding: 0px; }
+.content_gallery_content_cell_description_uploader_content_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_uploader_content_wrap h6 { margin: 0px; padding: 0px; font-size: 9pt; font-family: verdana; color: #ffffff; }
+
+.includeUploadDateView {width: 50%; border: solid 0px #ff0000; float: left;}
+
+.content_gallery_content_cell_description_uploadDate_wrap { width: 100%; height: 40px; float: left; }
+.content_gallery_content_cell_description_uploadDate_icon_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_uploadDate_content_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_uploadDate_content_wrap h6 { margin: 0px; padding: 0px; color: #ffffff; margin-top: 10px; }
+
+.content_gallery_content_cell_description_view_wrap { width: 100%; height: 40px; float: left; }
+.content_gallery_content_cell_description_view_icon_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_view_content_wrap { width: 50%; height: 50px; float: left; }
+.content_gallery_content_cell_description_view_content_wrap h6 { margin: 0px; padding: 0px; color: #ffffff; margin-top: 5px; }
+
+.content_gallery_content_cell_description_like_wrap { width: 50%; height: 80px; float: right; }
+.content_gallery_content_cell_description_like_icon_wrap { width: 50%; height: 32px; }
+.content_gallery_content_cell_description_like_content_wrap { width: 100%; height: 20px; margin-top: 15px;  }
+.content_gallery_content_cell_description_like_content_wrap h6 { margin: 0px; padding: 0px; color: #ffffff; }
+
+.content_gallery_content_moreLine_wrap { width: 100%; border: solid 0px #ff0000; margin-top: 50px; }
+.content_gallery_content_moreLine_wrap hr { width: 85%; float: left; border: solid 1px #ffffff; border-style: dashed; }
+.content_gallery_content_moreLine_wrap h6 { color: #ffffff; float: left; margin-top: 0px; margin-left: 5%; }

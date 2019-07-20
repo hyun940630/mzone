@@ -1,0 +1,30 @@
+.content_wrap { width: 50%; height: 1500px; border: solid 1px #000000; }
+
+.content_representImage_wrap { width: 100%; height: 250px; border: solid 0px #aaaaaa; margin-top: 110px; };
+.content_representImage_wrap img { margin-top: 100px; }
+
+/* 여기다가 css 스타일 넣으면 됨 */
+.guest_book_title { width: 100%; height: 50px; border-bottom: solid 1px #ffffff; }
+.guest_book_title h4 { float: left; color: #ffffff; }
+.guest_book { width: 100%; height: 250px; border: solid 0px #aaaaaa; margin-top: 20px; }
+.guest_record_title { width: 100%; height: 50px; border-bottom: solid 1px #ffffff; margin-top: 50px; }
+.guest_record_title h4 { float: left; color: #ffffff;  }
+.guest_record { width: 100%; height: 240px; border-bottom: dashed 1px #aaaaaa; margin-top: 4px; }
+.guest_record_cell_wrap { width: 100%; }
+
+.namedate_box h5 { float:left; color: #ffffff; }
+.namedate_box { width: 100%; height: 20px; border: solid 0px #ffffff; margin-top: 10px; }
+.name { width: 10%; float: left; border: solid 0px #aaaaaa; }
+.name_output { margin-right: 10%; width: 10%; float: left; border: solid 0px #aaaaaa; }
+.date { margin-left: 30%; width: 10%; float: left; border: solid 0px #aaaaaa; }
+.date_output { float:right; width: 30%; float: left; border: solid 0px #aaaaaa; }
+.read_box { margin-top:30px; padding: 10px; padding-top: 0px; background-color: #2b2b2b; width: 97%; height: 110px; border: solid 1px #aaaaaa; }
+.read_box h5 { float:left; color: #ffffff; margin-bottom: 30px;}
+
+#delete_bt { margin-top: 10px; float:right; height: 42px; background-color: #000000; border: solid 1px #aaaaaa; color: #aaaaaa; font-size: 10pt; font-weight: bold; font-family: 나눔고딕; }
+
+#write_box { margin-top: 20px; width: 100%; }
+#name { padding-left: 10px; background-color: #2b2b2b; color: #ffffff; border: solid 1px #aaaaaa; height: 30px; }
+#pass { padding-left: 10px; float:right; margin-left: 58%; background-color: #2b2b2b; color: #ffffff; border: solid 1px #aaaaaa; height: 30px; }
+#content { padding: 10px; margin-top:8px; width: 97%; height: 100px; background-color: #2b2b2b; color: #ffffff; border: solid 1px #aaaaaa; }
+#submit_bt { margin-top: 4px; float:right; height: 42px; background-color: #000000; border: solid 1px #aaaaaa; color: #aaaaaa; font-size: 10pt; font-weight: bold; font-family: 나눔고딕; }

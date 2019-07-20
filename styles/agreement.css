@@ -1,0 +1,105 @@
+.content_wrap { border: 0px; height: 1000px; }
+
+/* register_page_css */
+#register_main_img {
+  margin-top:100px;
+  margin-bottom:30px;
+}
+#table_id_password, #table_information {
+  padding-bottom:23px;
+  width:419px;
+  border-color:white;
+  border-spacing:0px;
+  border-width:0px;
+}
+#table_id_password td, #table_information td {
+  padding-top:5px;
+  padding-bottom:5px;
+  border-style:none;
+}
+.register_style1 {
+  width:419px;
+  height:40px;
+  background-color: #2b2b2b; border: solid 1px #aaaaaa; color: #ffffff;
+}
+#male, #female {
+  width:208.5px;
+  height:35px;
+
+  background-color: #000000; border: solid 1px #aaaaaa; color: #aaaaaa;
+  font-size: 10pt; font-weight: bold;
+}
+#register {
+  border-collapse:collapse;
+  border-color:#000;
+}
+#id  {
+  width:344px;
+  height:40px;
+  margin: 0px; padding: 0px;
+  background-color: #2b2b2b; border: solid 1px #aaaaaa; color: #ffffff;
+}
+
+#id_check {
+  height: 42px;
+  background-color: #000000; border: solid 1px #aaaaaa; color: #aaaaaa;
+  margin: 0px; padding-bottom: 4px;
+
+  font-size: 10pt; font-weight: bold;
+}
+
+#idCheckDisplay {
+  color: #ffffff; font-size: 10pt; 
+}
+
+#email {
+  margin-top: 50px;
+  width:207px;
+  height:40px;
+
+  background-color: #2b2b2b; border: solid 1px #aaaaaa; color: #ffffff;
+}
+#select_email {
+  width:207px;
+  height:44px;
+  margin: 0px; padding-bottom: 3px;
+
+  background-color: #2b2b2b; border: solid 1px #aaaaaa; color: #aaaaaa;
+}
+#regiser_button {
+  width:424px;
+  height:43px;
+}
+
+#join_btn {
+  width: 424px;
+  height: 50px;
+
+  background-color: #000000; border: solid 1px #ffffff; color: #ffffff;
+  font-size: 12pt; font-weight: bold; font-family: 나눔고딕;
+}
+
+#pwMatchDisplay {
+  margin: 0px; padding: 0px;
+  background-color: #000000;
+  width: 400px;
+  height: 20px;
+}
+
+#idCheckDisplay {
+  width: 400px;
+  height: 40px;
+}
+.positive {
+  margin: 0px; padding: 0px;
+  font-size: 10pt;
+  font-family: verdana;
+  color: #6799ff;
+}
+
+.negative {
+  margin: 0px; padding: 0px;
+  font-size: 10pt;
+  font-family: verdana;
+  color: #cc3d3d;
+}
