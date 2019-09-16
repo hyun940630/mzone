@@ -3,18 +3,6 @@
 </br>
 </br>
 
-## ScreenShots
-<div>
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933731-72ce1500-d881-11e9-81b1-3ec90b4d3b13.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933733-7366ab80-d881-11e9-9279-7b02c74e84ca.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933734-7366ab80-d881-11e9-9272-636e31cc6ccf.jpg">
-  <img width="210" src="https://user-images.githubusercontent.com/33711323/64933736-73ff4200-d881-11e9-9ffe-17c9d351ea5c.jpg">
-</div>  
-
-</br>
-</br>
-</br>
-
 ## Background
 프로젝트 팀 Thirty가 만들어지고 난 이후 첫 프로젝트로 활동 중인 밴드 동아리의 홈페이지를 만들게 되었습니다. 파일업로드 기능과 커뮤니티 기능, 정보 알림 기능을 위주로 개발이 진행되었습니다. 프론트엔드 개발을 맡은 만큼 사용자들에게 페이지에 대한 이해를 높이기 위해 노력했으며 밴드 컨셉에 맞는 디자인을 보여주기 위해 고민했습니다.
   
